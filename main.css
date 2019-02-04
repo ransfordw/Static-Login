@@ -10,25 +10,23 @@ body {
     border-radius: 5px;
 }
 
-.about{
+.navBtn {
     color:white;
     font-size: 12pt;
-    background-color: brown;
-    border: brown;
     margin-right: 20px;
     margin-top: 5px;
     margin-bottom: 5px;
     height: 35px;
     border-radius: 5px;
 }
+
+.about{
+    background-color: brown;
+    border: brown;
+}
 .register{
-    color: white;
-    font-size: 12pt;
     background: gray;
     border: gray;
-    margin-right: 20px;
-    height: 35px;
-    border-radius: 5px;
 }
 
 .wrapper{
